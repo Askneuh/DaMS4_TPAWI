@@ -1,2 +1,2 @@
-backend/certs/localhost-key.pem
-backend/certs/localhost.pem
+secure-app/backend/certs/localhost-key.pem
+secure-app/backend/certs/localhost.pem
